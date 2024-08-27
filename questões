@@ -1,6 +1,26 @@
-
+QUESTÃO 2
+a=(4/2)+(2/4)
+print(a)
+b=4/(2+2)/4
+print(b)
+c=(4+2)*2-4
+print(c)
+a=4/2+2/4
+print(a)
+b=4/2+2/4
+print(b)
+c=4+2*2-4
+print(c)
+NOTA: OS RESULTADOS NÃO SÃO OS MESMOS
+questão3
+altura= int(input("digite alutra do retangulo"))
+base= int(input("digite base do retangulo"))
+area=altura*base
+print("a area é igual a",area)
 questão 4
 altura= int(input("digite alutra do retangulo"))
 base= int(input("digite base do retangulo"))
 area=altura*base
 print("a area é igual a",area)
+
+
