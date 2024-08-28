@@ -1,2 +1,9 @@
-#IMPLEMENTE UM PROGRAMA QUE ESCREVA NA TELA A FRASE"O PRIMEIRO PROGRAMA A GENTE NUNCA ESQUECE!" 
-print("o primeiro programa a gente nunca esquece")
+#Questão 1
+A = 10
+B = 20
+C = 0
+print ("A = " + str(A),"/ B = " + str(B))
+C = A
+A = B
+B = C
+print ("A = " + str(A),"/ B = " + str(B))
