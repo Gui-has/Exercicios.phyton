@@ -1,4 +1,5 @@
-QUESTÃO 2
+Questão 1
+Questão 2
 a=(4/2)+(2/4)
 print(a)
 b=4/(2+2)/4
@@ -13,13 +14,13 @@ c=4+2*2-4
 print(c)
 NOTA: OS RESULTADOS NÃO SÃO OS MESMOS
 
-QUESTÃO 3
+Questão 3
 altura= int(input("digite alutra do retangulo"))
 base= int(input("digite base do retangulo"))
 area=altura*base
 print("a area é igual a",area
 
-QUESTÃO 4
+Questão 4
 altura= int(input("digite alutra do retangulo"))
 base= int(input("digite base do retangulo"))
 area=altura*base
