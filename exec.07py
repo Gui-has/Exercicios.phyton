@@ -1,0 +1,6 @@
+#transforme anos,meses em dias
+idade=int(input("digite sua idade"))
+anos=idade*365
+meses=idade*30
+dia=idade*1
+print(anos,meses,dias)
