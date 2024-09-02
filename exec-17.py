@@ -1,6 +1,6 @@
 #Questão 17
 
-print("Escreva nota 1 
+print("Escreva nota 1")
  nota1= float(input())
 print("escreva nota 2")
 nota2 = float(input())
