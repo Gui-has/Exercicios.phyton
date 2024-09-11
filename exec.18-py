@@ -1,0 +1,8 @@
+a=int(input("digite ano de nascimento"))
+b=2024
+idade=a-b
+
+if idade >=18:
+    print("não pode votar!")
+else:
+     print("pode votar!")
