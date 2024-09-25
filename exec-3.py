@@ -20,4 +20,4 @@ print(b)
 c=4+2*2-4
 print(c)
 
-NOTA: OS RESULTADOS NÃO SÃO OS MESMOS
+#NOTA: OS RESULTADOS NÃO SÃO OS MESMOS
